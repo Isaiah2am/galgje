@@ -4,12 +4,12 @@
 
 |W|E|B|K|I|D| |
 
-|-|-|-|M|-|A|
+|-|-|O|M|-|A|
 
 |1|2|3|4|5|6|
 
 ## Score
-![gallow](./images/5.png)
+![gallow](./images/6.png)
 
 ## Beurten
 ik raad W
